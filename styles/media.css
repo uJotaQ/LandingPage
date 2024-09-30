@@ -10,6 +10,7 @@
 
     h2{
         font-size: 38px;
+        align-items: center;
     }
 
     form{
@@ -33,5 +34,10 @@
     
     ul{
         text-align: center;
+    }
+
+    span{
+        align-self: center;
+        max-width: 40px;
     }
 }
